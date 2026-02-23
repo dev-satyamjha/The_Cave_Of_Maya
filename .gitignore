@@ -1,5 +1,8 @@
 gui.rpyc
-options
+options.rpyc
+cache
+saves
+tl
 screens.rpyc
 script.rpyc
 wordle.rpyc
