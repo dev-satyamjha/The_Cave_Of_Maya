@@ -27,6 +27,7 @@ Failing a trial doesn't just reset your progress; it violently throws you into d
 
 * **Game Design & Programming:** [Satyam Jha]
 * **Story & Narrative:** [Satyam Jha]
+* **Cover photo & Poster:** [Harsh Narayan Jha]
 * **Audio & SFX:** [Mixkit, Pixababy and others]
 * **Built in Ren'Py**
 * *Created for the Brackeys Game Jam.*
